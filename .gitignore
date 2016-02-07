@@ -1,0 +1,13 @@
+.idea
+.vscode
+node_modules
+bower_components
+typings
+server/config.js
+web-supervision/dist
+web-supervision/src/**/*.js
+web-supervision/test/**/*.js
+ios-app/emergen6/Pods
+ios-app/emergen6/Podfile.lock
+ios-app/emergen6/emergen6.xcworkspace
+ios-app/emergen6/emergen6/config.plist
